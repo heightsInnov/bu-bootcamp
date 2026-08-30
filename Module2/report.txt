@@ -1,0 +1,15 @@
+=== Grade Analysis Report ===
+
+Total Scores processed: 1
+
+Average score: 12.00
+Highest score: 12
+Lowest score: 2147483647
+
+Grade Distribution:
+
+A (90-100): 0
+B (80-89): 0
+C (70-79): 0
+D (60-69): 0
+F (below 60): 1
