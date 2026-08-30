@@ -90,7 +90,7 @@ public class GradeAnalyzer {
             for(int i = 0; i < scores.size(); i++){
                 total += scores.get(i);
             }
-            average = total/scores.size();
+            average = (double) total/scores.size();
         }
         return average;
     } 
